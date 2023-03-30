@@ -40,7 +40,7 @@
   .hero_title1 {
     position: relative;
     text-align: center;
-    font: 700 78px/1.2 'Poppins', sans-serif;
+    font: 700 68px/1.2 'Poppins', sans-serif;
     color: rgb(40, 154, 166);
     letter-spacing: 0px;
   }
@@ -682,7 +682,7 @@
 .container .heading{
     text-align: center;
     padding-bottom: 15px;
-    color:rgb(21, 21, 21);
+    color:rgb(40, 154, 166);
     text-shadow: 0 5px 10px rgba(0,0,0,.2);
     font-size: 50px;
 
